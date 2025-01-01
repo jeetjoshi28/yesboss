@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello Yes Boss || I am Jeet Joshi </h1>
+      <h1>Hello Yes Boss | I am Jeet Joshi </h1>
     </>
   )
 }
